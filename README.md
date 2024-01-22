@@ -1,6 +1,6 @@
 ### Hi, I'm KarenNakano💫
 
-I'm looking for a new job!!
+<!--I'm looking for a new job!!-->
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" width="485px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarenNakano&layout=compact&theme=tokyonight" />
