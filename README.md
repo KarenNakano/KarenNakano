@@ -2,7 +2,12 @@
 
 I'm looking for a new job!!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarenNakano&layout=compact&theme=tokyonight
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarenNakano&layout=compact&theme=tokyonight" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KarenNakano&layout=compact&theme=tokyonight&show_icons=true" />
+</p>
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarenNakano&layout=compact&theme=tokyonight
 )](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarenNakano&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
