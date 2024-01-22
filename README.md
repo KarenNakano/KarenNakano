@@ -3,7 +3,7 @@
 <!--I'm looking for a new job!!-->
 
 <!--<p align="left"> -->
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
       <img alt="Top Langs" height="150px" width="485px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarenNakano&layout=compact&theme=tokyonight" />
