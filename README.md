@@ -1,4 +1,4 @@
-### Hi, I'm KarenNakano💫
+### Hi, I'm Karen Nakano💫
 
 <!--I'm looking for a new job!!-->
 
