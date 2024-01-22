@@ -1,5 +1,7 @@
 ### Hi, I'm KarenNakano💫
 
+I'm looking for a nwe job!!
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarenNakano&layout=compact&theme=tokyonight
 )](https://github.com/anuraghazra/github-readme-stats)
 
